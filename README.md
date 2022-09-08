@@ -1,5 +1,5 @@
 # Citrus-Hackathon
-Phone Application Software & Pitch
+Phone Application Software & Investor Pitch
 
 Devpost Link:
 
